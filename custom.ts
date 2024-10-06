@@ -55,6 +55,8 @@ namespace hiragana_agent {
 
     //% blockId=hiragana_agent_2
     //% block="エージェントに $direction へおかせる"
+    //% block.loc.ja="日本語だぜ $direction へおかせる"
+    //% block.loc.en="english yeah $direction へおかせる"
     export function place(direction: SixDirection): void {
         return agent.place(direction);
     }

@@ -153,7 +153,8 @@
         "modanHouse.md",
         "autoDoor.md",
         "jetcoaster.md",
-        "_locales/en/chapter3-01.md"
+        "_locales/en/chapter3-01.md",
+        "_locales/ja/chapter3-01.md"
     ],
     "testFiles": [],
     "targetVersions": {
